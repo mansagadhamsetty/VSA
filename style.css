@@ -1,0 +1,26 @@
+
+
+label{
+   color: white;
+}
+li{
+   margin: 5px 20px 0 20px;
+}
+input,select{
+   cursor: pointer;
+   /* cursor: not-allowed; */
+}
+body{
+   background-color: rgb(63, 70, 70);
+}
+#array-space{
+   width: 100%;
+   padding: 20px;
+   display: flex;
+}
+
+small
+{
+    color: white;
+    font-size: 20px;
+}
